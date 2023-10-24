@@ -1,0 +1,1 @@
+This image was created to process latext code for the purpose of building PDFs.
